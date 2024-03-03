@@ -1,0 +1,14 @@
+Name: István Nagy
+Phone: 06301234567
+Address: 12, Kossuth Street
+Product: Laptop, Price: 2999.99, TVA: 27.00%, Quantity: 1
+
+Name: Eszter Kovács
+Phone: 06704567890
+Address: 34, Szabadság Square
+Product: Mouse, Price: 29.99, TVA: 10.00%, Quantity: 2
+
+Name: Gábor Tóth
+Phone: 06203456789
+Address: 56, Rákóczi Avenue
+Product: Keyboard, Price: 49.99, TVA: 15.00%, Quantity: 3
